@@ -1,0 +1,24 @@
+[submodule "submodule/python-fcl"]
+	path = submodule/python-fcl
+	url = https://github.com/TimSchneider42/python-fcl.git
+	ignore = untracked
+[submodule "submodule/bullet3"]
+	path = submodule/bullet3
+	url = https://github.com/TimSchneider42/bullet3.git
+	ignore = untracked
+[submodule "submodule/trimesh"]
+	path = submodule/trimesh
+	url = https://github.com/TimSchneider42/trimesh.git
+	ignore = untracked
+[submodule "submodule/stable-baselines3"]
+	path = submodule/stable-baselines3
+	url = https://github.com/DLR-RM/stable-baselines3
+	ignore = untracked
+[submodule "submodule/TD3"]
+	path = submodule/TD3
+	url = https://github.com/sfujim/TD3/
+	ignore = untracked
+[submodule "submodule/assembly-gym"]
+	path = submodule/assembly-gym
+	url = git@git.ias.informatik.tu-darmstadt.de:tactile_robotic_assembly/assembly-gym.git
+	branch = feature/simulator-abstraction

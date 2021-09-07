@@ -1,0 +1,8 @@
+gym
+pybullet-planning
+pypi-xmlrpc
+stable-baselines3
+tensorboard
+torch
+torchvision
+ur-rtde

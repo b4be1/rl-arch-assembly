@@ -1,0 +1,13 @@
+{
+  "table_extents": [1.0, 0.5, 0.41],
+  "tables": {
+    "pickup_table": {
+      "center_pos_xy": [0.0, 0.85],
+      "yaw": 0.0
+    },
+    "place_table": {
+      "center_pos_xy": [-0.85, 0.0],
+      "yaw": 1.57079632679
+    }
+  }
+}

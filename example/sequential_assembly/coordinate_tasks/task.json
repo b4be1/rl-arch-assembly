@@ -1,0 +1,10 @@
+{
+  "spawn": [
+    {"position":  [0, 0],
+      "orientation_nr": 3}
+  ],
+    "goal": [
+      {"position":  [0, 0],
+        "orientation_nr": 3}
+  ]
+}
